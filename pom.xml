@@ -5,12 +5,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hdactech</groupId>
-	<artifactId>HallaInRestServive</artifactId>
+	<artifactId>RestServive</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>HallaInRestServive</name>
-	<description>Rest Service for HallaIn Electronic contract</description>
+	<name>RestServive</name>
+	<description>Rest Service for Electronic contract</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
