@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.hdactech</groupId>
-	<artifactId>RestServive</artifactId>
+	<artifactId>RestService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>RestServive</name>
+	<name>RestService</name>
 	<description>Rest Service for Electronic contract</description>
 
 	<parent>
